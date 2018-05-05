@@ -12,7 +12,7 @@ Whether you want your account passed on to a loved one or wiped from existence, 
 
 AfterPass is your gateway to secure, long term, digital key backups. The integration of blockchain technology and split keys ensures that nobody except you is able to access your information until the time is right.
 
-Our unique multi-stage authentication system will automatically detect when you’ve shuffled off the mortal coil, and - after reaching out to ensure you’re not just on holiday - your information will be taken care of in your pre-stated preferred manner.
+Our unique multi-stage authentication system will automatically detect when you’ve shuffled off this mortal coil, and - after reaching out to ensure you’re not just on holiday - your information will be taken care of in your pre-stated preferred manner.
 
 At all times, you have complete control over your information and what happens with it. AfterPass cannot access your blockchain-encrypted data, and neither can anyone else until the time is right.
 
