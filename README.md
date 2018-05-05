@@ -1,2 +1,2 @@
-# afterpass.github.io
-Our public website
+# AfterPass
+Your digital afterlife. Sorted.
