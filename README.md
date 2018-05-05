@@ -1,4 +1,6 @@
-What happens to your cryptocurrency when you kick the bucket?
+![](https://github.com/AfterPass/afterpass.github.io/blob/master/Logo%202AfterPass%20512-03.png?raw=true)
+
+## What happens to your cryptocurrency when you kick the bucket?
 
 Legacy planning for your digital assets is insecure. Most solutions involve writing down your passkeys and keeping them in a “safe” place, or giving them to a trusted person.
 
