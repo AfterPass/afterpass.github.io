@@ -1,5 +1,3 @@
-![](https://github.com/AfterPass/afterpass.github.io/blob/master/Logo%202AfterPass%20512-03.png?raw=true)
-
 ## What happens to your cryptocurrency when you kick the bucket?
 
 Legacy planning for your digital assets is insecure. Most solutions involve writing down your passkeys and keeping them in a “safe” place, or giving them to a trusted person.
@@ -8,6 +6,8 @@ This defeats the purpose of having a private key, right?
 
 And it’s not just your Bitcoin and Ethereum. What will happen to all your photos, your videos, your blogs?
 Whether you want this information passed on to a loved one, or wiped from existence, AfterPass has a secure solution for you.
+
+![](https://github.com/AfterPass/afterpass.github.io/blob/master/Logo%202AfterPass%20512-03.png?raw=true)
 
 You can store cryptography keys, social media details, files, and photos with AfterPass to be released to whomever you like after you die.
 
