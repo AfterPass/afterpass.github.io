@@ -2,6 +2,8 @@
 
 [@AfterPass_Co On Twitter](https://twitter.com/AfterPass_Co)
 
+[Try out our demo!](https://afterpass.github.io/demo/)
+
 Keys get lost, and digital keys are no different. Some digital keys and passwords provide access to valuable investments and information. So how can you securely backup your digital keys? AfterPass is a super-secure recovery option for your most valuable information, cryptocurrency keys, and passwords.
 
 Most cryptocurrency recovery plans involve writing down your passkeys and keeping them in a “safe” place, or giving them to a trusted person with instructions. This defeats the purpose of having a private key.
