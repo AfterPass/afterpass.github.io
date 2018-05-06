@@ -1,6 +1,6 @@
 ## Peace of mind for your digital property
 
-[@AfterPass_Co On Twitter](https://twitter.com/AfterPass_Co)
+<a href="https://twitter.com/AfterPass_Co" target="_blank">@AfterPass_Co On Twitter</a>
 
 [Try out our demo!](https://afterpass.github.io/demo/)
 
