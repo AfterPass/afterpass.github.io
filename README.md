@@ -19,10 +19,14 @@ AfterPass is your gateway to secure, long term, digital key backups, by allowing
 
 You always have complete control over your information and what happens with it. AfterPass cannot access your blockchain-encrypted data, and neither can anyone else until your prerequisite conditions are met. Because transparency is one of our highest priorities, we’ve made our code open-source so you can review it for your own peace of mind.
 
-**Example:**<br>
-Joe Crypto has cryptocurrency investments, and he is worried he might lose or forget his key. Joe stores a backup of his bitcoin wallet key in a secure online location and uses AfterPass to generate a key, which Joe splits into four parts. Three of those parts go to Joe’s trusted friends and family members, who will act as trustees for his AfterPass backup. AfterPass holds the fourth part and acts as the gatekeeper for Joe’s secure information.<br>
-One day, Joe Crypto loses his cryptocurrency exchange password and needs his backup. When he signed up for AfterPass, Joe selected that a minimum of two of his trustees would be required to gain access, so even if one of his trustees was unavailable he could still recover his password.<br>
+**Example:**
+
+Joe Crypto has cryptocurrency investments, and he is worried he might lose or forget his key. Joe stores a backup of his bitcoin wallet key in a secure online location and uses AfterPass to generate a key, which Joe splits into four parts. Three of those parts go to Joe’s trusted friends and family members, who will act as trustees for his AfterPass backup. AfterPass holds the fourth part and acts as the gatekeeper for Joe’s secure information.
+
+One day, Joe Crypto loses his cryptocurrency exchange password and needs his backup. When he signed up for AfterPass, Joe selected that a minimum of two of his trustees would be required to gain access, so even if one of his trustees was unavailable he could still recover his password.
+
 Two of Joe’s trustees enter their key segments into the AfterPass website. AfterPass checks with Joe to make sure his trustees aren’t trying to steal his information, before adding its own key segment to unlock Joe’s cryptocurrency exchange password.
 
 ![](https://github.com/AfterPass/afterpass.github.io/blob/master/dsc_0571_1024.jpg?raw=true)
-Above: The founding members of AfterPass. From the left: Jamie Small, Stephan Hofmann, Kaushik Kumar, James Scaur, Julia Harrison, Joel Ling, and Amr Hussein.
+The founding members of AfterPass.
+From the left: Jamie Small, Stephan Hofmann, Kaushik Kumar, James Scaur, Julia Harrison, Joel Ling, and Amr Hussein.
