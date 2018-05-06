@@ -100,8 +100,8 @@ The more people you share your key with, the more secure your keychain.
 <option>Dav (dave@example.com)</option>
 <option>Lana (lana@example.com)</option>
 </select><br/>
-<label class="name">Add another: </label><input class="name" value="jason@example.com"/>
-<br/><br/><label class="name"><strong>Step 4:</strong> Threshold: </label><input class="name" style="width: 30px" value="3" disabled/>
+    <label class="name">Add another: </label><input class="name" id="add" value="jason@example.com"/> <button style="font-size: large;" onClick="add()">Confirm</button>
+<br/><br/><label class="name"><strong>Step 4:</strong> Threshold: </label><input class="name" style="width: 30px" value="3"/>
 <br/>
 <p class="App-warning">
 Remember: These people can unlock your account in the case of an emergency.
@@ -110,12 +110,19 @@ Remember: These people can unlock your account in the case of an emergency.
 </div>
 
 <script type="text/javascript">
+<script type="text/javascript">
   function Ajax() {
     // call ajax and return data
     // dummy data
-    var pre = "EXAMPLE DATA";
-    $('.App').append( "<h2>Keys downloaded!</h2><pre>" + pre + "</pre>" );
+    var pre = "01-e90ba6a686c7168e17d1fa65e41bfad231394b8c607845\n02-65b5eb5e967fc44b83898c520644c938a4a34c8d3c351a\n03-757abd847c91bb8b899686d9a7941ac8644d5e77678375\n04-36981c6526ad795308a5af3ac26df6f9099fb2bef6632b";
+    $('.App').append( "<h2>Keys generated & distributed.</h2><pre>" + pre + "</pre><h2>Final key saved to your AfterPass.</h2>" );
   }
+  function add() {
+      var content = $('#add').val();
+      $('select').append( "<option selected>" + content + "</option>")
+      $('#add').val("");
+  }
+</script>
 </script>
 
 </body>
