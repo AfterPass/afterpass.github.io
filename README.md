@@ -11,7 +11,7 @@ Most cryptocurrency recovery plans involve writing down your passkeys and keepin
 **Experts estimate over 4 million bitcoin
 are lost forever due to misplaced or forgotten keys.**
 
-![](https://github.com/AfterPass/afterpass.github.io/blob/master/Logo%202AfterPass%20512-03.png?raw=true)
+![](https://github.com/AfterPass/afterpass.github.io/blob/master/Resized%20blue%20logo.png?raw=true)
 
 AfterPass is your gateway to secure, long term, digital key backups, by allowing you to securely encrypt your data. Our encryption service creates a key to this data, which can be split into as many parts as you choose. AfterPass will always hold onto one part of the key, and you can distribute the other parts to people you trust at your own discretion. No singular piece of the key on its own can be used to access your information.
 
